@@ -1,7 +1,6 @@
 # Mobile-Robotics
 
-```diff
-PID Contol 
-```
+#### PID Control
 
-- Contains the code that allows a husky robot to autonomously follow the wall to its left. Programmed in Python using ROS.
+- Contains the code that allows a husky robot to autonomously follow the wall to its left. 
+- Programmed in Python using ROS.
