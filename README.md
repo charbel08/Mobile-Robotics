@@ -8,6 +8,6 @@
 
 #### Planning Algorithms
 
-- Contains code to run Dijkstra, A* and RRT
+- Contains code that runs Dijkstra, A* and RRT
 - Images included to show the differences between each algorithm
 - Implemented in Python
