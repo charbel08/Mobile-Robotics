@@ -15,5 +15,5 @@
 
 - Here is an example of what RRT produces
 
-<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/Planning%20Algorithms/Images/rrt_result_1.png" alt="drawing" width="400"/>
+<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/Planning%20Algorithms/Images/rrt_result_1.png" alt="drawing" width="600"/>
 
