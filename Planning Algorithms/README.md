@@ -2,7 +2,7 @@
 
 - Dijkstra can be found in /python/dijkstra_planner
 - A* can be found in /python/astar_planner.py
-- RRT can be foung in /python/rrt_planner.py
+- RRT can be found in /python/rrt_planner.py
 
 #### Dijkstra and A* comparison
 
@@ -13,4 +13,7 @@
 
 #### RRT
 
-<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/Planning%20Algorithms/Images/dijkstra_visited_1.png" alt="drawing" width="400"/>
+- Here is an example of what RRT produces
+
+<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/Planning%20Algorithms/Images/rrt_result_1.png" alt="drawing" width="600"/>
+
