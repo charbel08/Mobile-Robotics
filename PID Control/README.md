@@ -8,4 +8,4 @@
 
 #### Demo video
 
-<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/Planning%20Algorithms/Images/dijkstra_visited_1.png" alt="drawing" width="400"/>
+<img src="https://github.com/charbel08/Mobile-Robotics/blob/main/PID%20Control/demo.gif" alt="drawing" width="400"/>
