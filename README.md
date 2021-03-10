@@ -2,7 +2,7 @@
 
 #### PID Control
 
-- Contains the code that allows a husky robot to autonomously follow the wall to its left. 
+- Contains code for a self driving husky rover. 
 - Programmed in Python using ROS.
 - Videos included demonstrating the husky's capabilities. 
 
